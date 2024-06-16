@@ -67,3 +67,6 @@ Both multiplayer and single-player Minecraft servers allow you to use an API wit
 2. Open Minecraft and connect to the Spigot server by selecting Minecraft Python World from the multiplayer menu.
 3. Hit esc on your keyboard to free your cursor from the Minecraft window, and then open a Python shell in IDLE.
 4. You’ll need to have these three pieces of software open whenever you write programs that interact with Minecraft!!
+
+# Reference
+Learn to Program with Minecraft by Craig Richardson.
